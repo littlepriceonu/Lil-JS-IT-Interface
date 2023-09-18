@@ -1,6 +1,6 @@
 {
   "name": "lil-js-it-interface",
-  "version": "0.1.1",
+  "version": "0.1.11",
   "description": "Little's Javascript Itunes Interface",
   "main": "./dist/index.js",
   "scripts": {
@@ -13,7 +13,6 @@
     "npmignore": "^0.3.0",
     "typescript": "^5.2.2"
   },
-  "types": "./src/types.d.ts",
   "publishConfig": {
     "ignore": [
       "src/index.ts",
