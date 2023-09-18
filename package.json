@@ -1,10 +1,10 @@
 {
   "name": "lil-js-it-interface",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Little's Javascript Itunes Interface",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
   "scripts": {
-    "prepack": "npmignore --auto"
+    "prepack": "npx npmignore --auto"
   },
   "author": "Littlepriceonu.com",
   "license": "MIT",
@@ -13,12 +13,12 @@
     "npmignore": "^0.3.0",
     "typescript": "^5.2.2"
   },
+  "types": "./src/types.d.ts",
   "publishConfig": {
     "ignore": [
-        "src/",
-        "tsconfig.json",
-        ".gitignore"
+      "src/index.ts",
+      "tsconfig.json",
+      ".gitignore"
     ]
-    
   }
 }

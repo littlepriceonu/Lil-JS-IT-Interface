@@ -124,6 +124,6 @@ class ItunesInterface {
 }
 exports.ItunesInterface = ItunesInterface;
 const iti = new ItunesInterface();
-console.log(iti.PlayerControls.IsSongReady());
+console.log(iti.PlayerControls.GetSong().name);
 exports.default = ItunesInterface;
 //# sourceMappingURL=index.js.map
