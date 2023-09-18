@@ -1,6 +1,6 @@
 {
   "name": "lil-js-it-interface",
-  "version": "0.1.11",
+  "version": "0.1.2",
   "description": "Little's Javascript Itunes Interface",
   "main": "./dist/index.js",
   "scripts": {

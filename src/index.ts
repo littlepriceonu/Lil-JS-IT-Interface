@@ -188,7 +188,5 @@ class ItunesInterface {
 
 const iti = new ItunesInterface()
 
-console.log(iti.PlayerControls.GetSong().name)
-
 export {ItunesInterface, ItunesPlayerControls}
 export default ItunesInterface
