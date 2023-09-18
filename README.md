@@ -1,2 +1,4 @@
-# Lil-TS-IT-Interface
-Little's Typescript Itunes Interface
+# Little's Javascript Itunes Interface
+
+A Itunes COM Object Interface Written In Typescript. 
+
