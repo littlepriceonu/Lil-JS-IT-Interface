@@ -123,6 +123,5 @@ class ItunesInterface {
     }
 }
 exports.ItunesInterface = ItunesInterface;
-const iti = new ItunesInterface();
 exports.default = ItunesInterface;
 //# sourceMappingURL=index.js.map

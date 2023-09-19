@@ -186,7 +186,5 @@ class ItunesInterface {
     }
 }
 
-const iti = new ItunesInterface()
-
 export {ItunesInterface, ItunesPlayerControls}
 export default ItunesInterface
